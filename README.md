@@ -10,5 +10,6 @@
 5.1. API1: Iniciar
 5.2. API2: Iniciar
 5.3. Tests: Nenhum
-6. Verifique se a porta de localhost do applicationUrl dentro de launchSettings.json corresponde a porta da url da api em API2.cs, caso não corresponder faça a alteração para que sejam iguais
+6. Verifique se a porta de localhost do applicationUrl dentro de launchSettings.json corresponde a 
+porta da url da api em API2.cs, caso não corresponder faça a alteração para que sejam iguais
 ```
